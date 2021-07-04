@@ -1,4 +1,4 @@
-![MariusStorhaug's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusStorhaug&count_private=true&show_icons=true)
+![MariusStorhaug's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusStorhaug&count_private=true&show_icons=true&theme=chartreuse-dark)
 
 - 👋 Hi, I’m @MariusStorhaug
 - 👀 I’m interested in ...
