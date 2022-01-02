@@ -76,7 +76,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
 ## 📫 You can reach me here
 
 <a href="https://teams.microsoft.com/l/chat/0/0?users=marius.storhaug@microsoft.com" target="_blank" rel="noreferrer noopener">
-    <img src="icons/devto.svg" alt="Teams" height="30" width="40"/>
+    <img src="icons/microsoft-teams.svg" alt="Teams" height="30" width="40"/>
 </a>
 <a href="https://dev.to/mariusstorhaug" target="_blank" rel="noreferrer noopener">
     <img src="icons/devto.svg" alt="dev.to" height="30" width="40"/>
