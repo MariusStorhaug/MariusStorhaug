@@ -46,7 +46,6 @@ Establishing or enhancing product teams to develop a platform on Azure.
     <img src="icons/windows-terminal.svg" alt="Windows Terminal" height="30"/>
 </a>
 
-&nbsp;
 
 ### 📝 Languages
 
@@ -75,7 +74,6 @@ Establishing or enhancing product teams to develop a platform on Azure.
     <img src="icons/okr.png" alt="OKRs" height="30"/>
 </a>
 
-
 - Cloud Adoption Framework
 - Enterprise-Scale (Azure Landing Zone)
 - Getting Things Done
@@ -94,8 +92,6 @@ Establishing or enhancing product teams to develop a platform on Azure.
 <a href="https://twitter.com/mariusstorhaug" target="_blank" rel="noreferrer noopener">
     <img src="icons/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>
-
-&nbsp;
 
 ## **📊 Stats**
 
