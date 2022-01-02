@@ -1,4 +1,4 @@
-# Hi, I’m Marius
+# Hi, I’m Marius 👋
 
 I am a Senior Consultant at Microsoft, where I help some of the biggest organizations and partners in the Nordics
 to establish or enhance a platform in Azure.
