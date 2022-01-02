@@ -7,7 +7,6 @@ to establish or enhance a platform in Azure.
 
 - [Azure/ResourceModules](https://github.com/Azure/ResourceModules) - a library of bicep modules
 - [AzActions](https://github.com/AzActions) - a set of github actions to simplify IaC deployment
-- Improving the CAF guidance for Platform Automation and DevOps
 
 ## 🌱 I’m currently learning
 
@@ -52,7 +51,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
 - Enterprise-Scale (Azure Landing Zone)
 
 <details>
-  <summary>Background</summary>
+  <summary>### Background</summary>
 
 - Legacy Windows Server and Client infra and management
   - Hyper-V + System Center (Private Cloud)
