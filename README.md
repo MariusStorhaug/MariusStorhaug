@@ -63,8 +63,6 @@ Establishing or enhancing product teams to develop a platform on Azure.
     <img src="icons/bicep.svg" alt="Bicep" height="30"/>
 </a>
 
-&nbsp;
-
 ### 📃 Non-technical
 
 <a href="https://scrumguides.org/scrum-guide.html" target="_blank" rel="noreferrer noopener">
@@ -81,8 +79,6 @@ Establishing or enhancing product teams to develop a platform on Azure.
 - Cloud Adoption Framework
 - Enterprise-Scale (Azure Landing Zone)
 - Getting Things Done
-
-&nbsp;
 
 ## 📫 You can reach me here
 
