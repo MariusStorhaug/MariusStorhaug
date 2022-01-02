@@ -106,8 +106,9 @@ Establishing or enhancing product teams to develop a platform on Azure.
 
 ## **📊 Stats**
 
-![MariusStorhaug's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusStorhaug&count_private=true&show_icons=true&theme=chartreuse-dark)
+![MariusStorhaug's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusStorhaug&count_private=true&show_icons=true&theme=chartreuse-dark&locale=en)
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariusStorhaug&count_private=true&show_icons=true&theme=chartreuse-dark&locale=en" alt="mariusstorhaug"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariusstorhaug&show_icons=true&locale=en&layout=compact" alt="mariusstorhaug"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariusstorhaug&show_icons=true&locale=en" alt="mariusstorhaug"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariusstorhaug&" alt="mariusstorhaug"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MariusStorhaug&count_private=true&show_icons=true&theme=chartreuse-dark&locale=en" alt="mariusstorhaug"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MariusStorhaug&count_private=true&theme=chartreuse-dark" alt="mariusstorhaug"/>
