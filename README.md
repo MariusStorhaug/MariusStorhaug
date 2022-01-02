@@ -46,6 +46,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
     <img src="icons/windows-terminal.svg" alt="Windows Terminal" height="30"/>
 </a>
 
+<br/>
 
 ### 📝 Languages
 
@@ -61,6 +62,8 @@ Establishing or enhancing product teams to develop a platform on Azure.
 <a href="https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview" target="_blank" rel="noreferrer noopener">
     <img src="icons/bicep.svg" alt="Bicep" height="30"/>
 </a>
+
+<br/>
 
 ### 📃 Non-technical
 
@@ -79,6 +82,8 @@ Establishing or enhancing product teams to develop a platform on Azure.
 - Enterprise-Scale (Azure Landing Zone)
 - Getting Things Done
 
+<br/>
+
 ## 📫 You can reach me here
 
 <a href="https://teams.microsoft.com/l/chat/0/0?users=marius.storhaug@microsoft.com" target="_blank" rel="noreferrer noopener">
@@ -93,6 +98,8 @@ Establishing or enhancing product teams to develop a platform on Azure.
 <a href="https://twitter.com/mariusstorhaug" target="_blank" rel="noreferrer noopener">
     <img src="icons/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>
+
+<br/>
 
 ## **📊 Stats**
 
