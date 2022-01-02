@@ -7,7 +7,6 @@ to establish or enhance a platform in Azure.
 
 - [Azure/ResourceModules](https://github.com/Azure/ResourceModules) - a library of bicep modules
 - [AzActions](https://github.com/AzActions) - a set of github actions to simplify IaC deployment
-- Improving the CAF guidance for Platform Automation and DevOps
 
 ## 🌱 I’m currently learning
 
