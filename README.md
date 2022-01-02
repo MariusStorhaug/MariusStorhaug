@@ -1,4 +1,4 @@
-# Hi, I’m Marius
+# 👋 Hi, I’m Marius
 
 I am a Senior Consultant at Microsoft, where I help some of the biggest organizations and partners in the Nordics
 to establish or enhance a platform in Azure.
@@ -14,13 +14,14 @@ to establish or enhance a platform in Azure.
 - Scrum - Product Owner
 - Powershell module development
 
-## ⚙️ I'm rather skilled on
+## ⚙️ I have experience on
 
 Establishing or enhancing product teams to develop a platform on Azure.
-  - Management and Governance (i.e. policy)
-  - Identity and Access Management (AAD)
-  - Network and Security
-  - Automated subscription provisioning (CSP, EA and MCA)
+- Management and Governance (i.e. policy)
+- Identity and Access Management (AAD)
+- Network and Security
+- Platform automation
+- Automated subscription provisioning (CSP, EA and MCA)
 
 ### 🛠️ Tools
 
@@ -31,15 +32,8 @@ Establishing or enhancing product teams to develop a platform on Azure.
 - Windows
 - Windows Terminal
 
-### Non-technical
-- Scrum
-- DevOps
-- OKRs
-- Product-centric mindset
-- Cloud Adoption Framework
-- Enterprise-Scale (Azure Landing Zone)
-
 ### 📝 Languages
+
 - PowerShell
 - [Pester](https://pester.dev/docs/quick-start)
 - ARM
@@ -48,7 +42,17 @@ Establishing or enhancing product teams to develop a platform on Azure.
 - YML
 - Markdown
 
-### Background
+### 📃 Non-technical
+
+- Scrum
+- DevOps
+- OKRs
+- Product-centric mindset
+- Cloud Adoption Framework
+- Enterprise-Scale (Azure Landing Zone)
+
+<details>
+  <summary>Background</summary>
 
 - Legacy Windows Server and Client infra and management
   - Hyper-V + System Center (Private Cloud)
@@ -57,6 +61,8 @@ Establishing or enhancing product teams to develop a platform on Azure.
   - ConfigMgr 2012 + Co-mgmt
 - Networking
 - Office 365, Cloud/Hybrid Identity
+
+</details>
 
 ## 📫 You can also find me here
 
