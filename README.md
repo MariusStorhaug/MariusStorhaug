@@ -23,7 +23,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
 - Automated subscription provisioning (CSP, EA and MCA)
 
 ### 🛠️ Tools
-<div>
+<div style="padding: 5px">
     <img src="icons/Git.svg" alt="Git" width=30>
     <img src="icons/Azure_DevOps.svg" alt="Azure DevOps" width=30>
     <img src="icons/GitHub.svg" alt="GitHub" width=30>
