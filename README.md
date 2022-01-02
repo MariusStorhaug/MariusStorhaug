@@ -11,7 +11,7 @@ to establish or enhance a platform in Azure.
 ## 🌱 I’m currently learning
 
 - Scrum - Product Owner
-- Powershell module development
+- Advanced PowerShell module development
 
 ## ⚙️ I have experience on
 
@@ -25,47 +25,47 @@ Establishing or enhancing product teams to develop a platform on Azure.
 ### 🛠️ Tools
 
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer noopener">
-    <img src="icons/azure.svg" alt="azure" width="30"/>
+    <img src="icons/azure.svg" alt="azure" width="30" hight="30"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener">
-    <img src="icons/git.svg" alt="Git" width=30>
+    <img src="icons/git.svg" alt="Git" width="30" hight="30"/>
 </a>
 <a href="https://docs.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops" target="_blank" rel="noreferrer noopener">
-    <img src="icons/azure-devops.svg" alt="Azure DevOps" width=30>
+    <img src="icons/azure-devops.svg" alt="Azure DevOps" width="30" hight="30"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener">
-    <img src="icons/GitHub.svg" alt="GitHub" width=30>
+    <img src="icons/GitHub.svg" alt="GitHub" width="30" hight="30"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener">
-    <img src="icons/Visual_Studio_Code.svg" alt="Visual Studio Code" width=30>
+    <img src="icons/Visual_Studio_Code.svg" alt="Visual Studio Code" width="30" hight="30"/>
 </a>
 <a href="https://docs.microsoft.com/en-us/windows/whats-new/windows-11-whats-new" target="_blank" rel="noreferrer noopener">
-    <img src="icons/windows.svg" alt="Windows" width=30>
+    <img src="icons/windows.svg" alt="Windows" width="30" hight="30"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener">
-    <img src="icons/windows-terminal.svg" alt="Windows Terminal" width=30>
+    <img src="icons/windows-terminal.svg" alt="Windows Terminal" width="30" hight="30"/>
 </a>
 
 
 ### 📝 Languages
 
 <a href="https://docs.microsoft.com/en-us/powershell/scripting/overview" target="_blank" rel="noreferrer noopener">
-    <img src="icons/powershell.svg" alt="PowerShell" width=30>
+    <img src="icons/powershell.svg" alt="PowerShell" width="30" hight="30"/>
 </a>
 <a href="https://pester.dev/docs/quick-start" target="_blank" rel="noreferrer noopener">
-    <img src="icons/pester.svg" alt="Pester" width=30>
+    <img src="icons/pester.svg" alt="Pester" width="30" hight="30"/>
 </a>
 <a href="https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview" target="_blank" rel="noreferrer noopener">
-    <img src="icons/arm.svg" alt="Azure Resource Manager templates" width=30>
+    <img src="icons/arm.svg" alt="Azure Resource Manager templates" width="30" hight="30"/>
 </a>
 <a href="https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview" target="_blank" rel="noreferrer noopener">
-    <img src="icons/bicep.svg" alt="Bicep" width=30>
+    <img src="icons/bicep.svg" alt="Bicep" width="30" hight="30"/>
 </a>
 
 ### 📃 Non-technical
 
 <a href="https://scrumguides.org/scrum-guide.html" target="_blank" rel="noreferrer noopener">
-    <img src="icons/scrum.svg" alt="Scrum" width=30>
+    <img src="icons/scrum.svg" alt="Scrum" width="30" hight="30"/>
 </a>
 - DevOps
 - OKRs
@@ -73,32 +73,19 @@ Establishing or enhancing product teams to develop a platform on Azure.
 - Enterprise-Scale (Azure Landing Zone)
 - Getting Things Done
 
-<details>
-  <summary><h3>🖥️ Background</h3></summary>
-
-- Legacy Windows Server and Client infra and management
-  - Hyper-V + System Center (Private Cloud)
-  - Windows Client and Server OS
-  - Windows Server AD
-  - ConfigMgr 2012 + Co-mgmt
-- Networking
-- Office 365, Cloud/Hybrid Identity
-
-</details>
-
 ## 📫 You can reach me here
 
 - [Private mail](marstor@hotmail.com)
 - [Work mail](marius.storhaug@microsoft.com)
 - [Marius Storhaug | Teams](https://teams.microsoft.com/l/chat/0/0?users=marius.storhaug@microsoft.com)
 <a href="https://dev.to/mariusstorhaug" target="_blank" rel="noreferrer noopener">
-    <img src="icons/Social/devto.svg" alt="mariusstorhaug" height="30" width="40"/>
+    <img src="icons/devto.svg" alt="mariusstorhaug" height="30" width="40"/>
 </a>
 <a href="https://twitter.com/mariusstorhaug" target="_blank" rel="noreferrer noopener">
-    <img src="icons/Social/twitter.svg" alt="mariusstorhaug" height="30" width="40" />
+    <img src="icons/twitter.svg" alt="mariusstorhaug" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/mariusstorhaug" target="_blank" rel="noreferrer noopener">
-    <img src="icons/Social/linked-in-alt.svg" alt="mariusstorhaug" height="30" width="40" />
+    <img src="icons/linked-in-alt.svg" alt="mariusstorhaug" height="30" width="40" />
 </a>
 
 ## **📊 Stats**
