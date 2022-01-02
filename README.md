@@ -66,7 +66,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
 ### 📃 Non-technical
 
 <a href="https://scrumguides.org/scrum-guide.html" target="_blank" rel="noreferrer noopener">
-    <img src="icons/scrum.svg" alt="Scrum" height="30"/>
+    <img src="icons/scrum.png" alt="Scrum" height="30"/>
 </a>
 <a href="https://docs.microsoft.com/en-us/learn/paths/devops-dojo-white-belt-foundation/" target="_blank" rel="noreferrer noopener">
     <img src="icons/devops.png" alt="DevOps" height="30"/>
