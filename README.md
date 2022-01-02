@@ -53,7 +53,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
     <img src="icons/powershell.svg" alt="PowerShell" width="30" hight="30"/>
 </a>
 <a href="https://pester.dev/docs/quick-start" target="_blank" rel="noreferrer noopener">
-    <img src="icons/pester.svg" alt="Pester" width="30" hight="30"/>
+    <img src="icons/pester.svg" alt="Pester" hight="30"/>
 </a>
 <a href="https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview" target="_blank" rel="noreferrer noopener">
     <img src="icons/arm.svg" alt="Azure Resource Manager templates" width="30" hight="30"/>
@@ -82,14 +82,14 @@ Establishing or enhancing product teams to develop a platform on Azure.
 <a href="https://teams.microsoft.com/l/chat/0/0?users=marius.storhaug@microsoft.com" target="_blank" rel="noreferrer noopener">
     <img src="icons/microsoft-teams.svg" alt="Teams" height="30" width="40"/>
 </a>
+<a href="https://linkedin.com/in/mariusstorhaug" target="_blank" rel="noreferrer noopener">
+    <img src="icons/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 <a href="https://dev.to/mariusstorhaug" target="_blank" rel="noreferrer noopener">
     <img src="icons/devto.svg" alt="dev.to" height="30" width="40"/>
 </a>
 <a href="https://twitter.com/mariusstorhaug" target="_blank" rel="noreferrer noopener">
     <img src="icons/twitter.svg" alt="Twitter" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/mariusstorhaug" target="_blank" rel="noreferrer noopener">
-    <img src="icons/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
 ## **📊 Stats**
