@@ -67,7 +67,11 @@ Establishing or enhancing product teams to develop a platform on Azure.
 <a href="https://scrumguides.org/scrum-guide.html" target="_blank" rel="noreferrer noopener">
     <img src="icons/scrum.svg" alt="Scrum" width="30" hight="30"/>
 </a>
-- DevOps
+<a href="https://docs.microsoft.com/en-us/learn/paths/devops-dojo-white-belt-foundation/" target="_blank" rel="noreferrer noopener">
+    <img src="icons/devops.svg" alt="DevOps" width="30" hight="30"/>
+</a>
+
+
 - OKRs
 - Cloud Adoption Framework
 - Enterprise-Scale (Azure Landing Zone)
