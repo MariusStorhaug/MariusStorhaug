@@ -68,7 +68,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
     <img src="icons/scrum.svg" alt="Scrum" width="30" height="30"/>
 </a>
 <a href="https://docs.microsoft.com/en-us/learn/paths/devops-dojo-white-belt-foundation/" target="_blank" rel="noreferrer noopener">
-    <img src="icons/devops.svg" alt="DevOps" width="30" height="30"/>
+    <img src="icons/devops.png" alt="DevOps" width="30" height="30"/>
 </a>
 
 
