@@ -27,11 +27,10 @@ Establishing or enhancing product teams to develop a platform on Azure.
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<a href="https://git-scm.com/">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
 
-<p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="icons/Git.svg" alt="Git" width=30>
 </a>
@@ -40,7 +39,6 @@ Establishing or enhancing product teams to develop a platform on Azure.
     <img src="icons/Visual_Studio_Code.svg" alt="Visual Studio Code" width=30>
     <img src="icons/Windows.svg" alt="Windows" width=30>
     <img src="icons/Windows_Terminal.svg" alt="Windows Terminal" width=30>
-</p>
 
 
 ### 📝 Languages
@@ -107,6 +105,6 @@ Establishing or enhancing product teams to develop a platform on Azure.
 
 ## **📊 Stats**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariusStorhaug&count_private=true&show_icons=true&theme=chartreuse-dark&locale=en" alt="mariusstorhaug"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MariusStorhaug&count_private=true&show_icons=true&theme=chartreuse-dark&locale=en" alt="mariusstorhaug"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MariusStorhaug&count_private=true&theme=chartreuse-dark" alt="mariusstorhaug"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MariusStorhaug&count_private=true&show_icons=true&theme=chartreuse-dark&locale=en" alt="mariusstorhaug"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MariusStorhaug&count_private=true&show_icons=true&theme=chartreuse-dark&locale=en" alt="mariusstorhaug"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MariusStorhaug&count_private=true&theme=chartreuse-dark" alt="mariusstorhaug"/>
