@@ -11,7 +11,7 @@ to establish or enhance a platform in Azure.
 ## 🌱 I’m currently learning
 
 - Scrum - Product Owner
-- Powershell module development
+- Advanced PowerShell module development
 
 ## ⚙️ I have experience on
 
@@ -24,54 +24,81 @@ Establishing or enhancing product teams to develop a platform on Azure.
 
 ### 🛠️ Tools
 
-- Git
-- Azure DevOps
-- GitHub
-- Visual Studio Code
-- Windows
-- Windows Terminal
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer noopener">
+    <img src="icons/azure.svg" alt="azure" height="30"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener">
+    <img src="icons/git.svg" alt="Git" height="30"/>
+</a>
+<a href="https://docs.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops" target="_blank" rel="noreferrer noopener">
+    <img src="icons/azure-devops.svg" alt="Azure DevOps" height="30"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener">
+    <img src="icons/github.svg" alt="GitHub" height="30"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener">
+    <img src="icons/visual-studio-code.svg" alt="Visual Studio Code" height="30"/>
+</a>
+<a href="https://docs.microsoft.com/en-us/windows/whats-new/windows-11-whats-new" target="_blank" rel="noreferrer noopener">
+    <img src="icons/windows.svg" alt="Windows" height="30"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener">
+    <img src="icons/windows-terminal.svg" alt="Windows Terminal" height="30"/>
+</a>
+
+&nbsp;
 
 ### 📝 Languages
 
-- PowerShell
-- [Pester](https://pester.dev/docs/quick-start)
-- ARM
-- Bicep
-- JSON
-- YML
-- Markdown
+<a href="https://docs.microsoft.com/en-us/powershell/scripting/overview" target="_blank" rel="noreferrer noopener">
+    <img src="icons/powershell.svg" alt="PowerShell" height="30"/>
+</a>
+<a href="https://pester.dev/docs/quick-start" target="_blank" rel="noreferrer noopener">
+    <img src="icons/pester.svg" alt="Pester" height="30"/>
+</a>
+<a href="https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview" target="_blank" rel="noreferrer noopener">
+    <img src="icons/arm.svg" alt="Azure Resource Manager templates" height="30"/>
+</a>
+<a href="https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview" target="_blank" rel="noreferrer noopener">
+    <img src="icons/bicep.svg" alt="Bicep" height="30"/>
+</a>
 
 ### 📃 Non-technical
 
-- Scrum
-- DevOps
-- OKRs
-- Product-centric mindset
+<a href="https://scrumguides.org/scrum-guide.html" target="_blank" rel="noreferrer noopener">
+    <img src="icons/scrum.svg" alt="Scrum" height="30"/>
+</a>
+<a href="https://docs.microsoft.com/en-us/learn/paths/devops-dojo-white-belt-foundation/" target="_blank" rel="noreferrer noopener">
+    <img src="icons/devops.png" alt="DevOps" height="30"/>
+</a>
+<a href="https://www.whatmatters.com/get-started" target="_blank" rel="noreferrer noopener">
+    <img src="icons/okr.png" alt="OKRs" height="30"/>
+</a>
+
+
 - Cloud Adoption Framework
 - Enterprise-Scale (Azure Landing Zone)
+- Getting Things Done
 
-<details>
-  <summary>### Background</summary>
+## 📫 You can reach me here
 
-- Legacy Windows Server and Client infra and management
-  - Hyper-V + System Center (Private Cloud)
-  - Windows Client and Server OS
-  - Windows Server AD
-  - ConfigMgr 2012 + Co-mgmt
-- Networking
-- Office 365, Cloud/Hybrid Identity
+<a href="https://teams.microsoft.com/l/chat/0/0?users=marius.storhaug@microsoft.com" target="_blank" rel="noreferrer noopener">
+    <img src="icons/microsoft-teams.svg" alt="Teams" height="30" width="40"/>
+</a>
+<a href="https://linkedin.com/in/mariusstorhaug" target="_blank" rel="noreferrer noopener">
+    <img src="icons/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://dev.to/mariusstorhaug" target="_blank" rel="noreferrer noopener">
+    <img src="icons/devto.svg" alt="dev.to" height="30" width="40"/>
+</a>
+<a href="https://twitter.com/mariusstorhaug" target="_blank" rel="noreferrer noopener">
+    <img src="icons/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
 
-</details>
-
-## 📫 You can also find me here
-
-- [Private mail](marstor@hotmail.com)
-- [Work mail](marius.storhaug@microsoft.com)
-- [Marius Storhaug | Teams](https://teams.microsoft.com/l/chat/0/0?users=marius.storhaug@microsoft.com)
-- [Marius Storhaug | LinkedIn](https://www.linkedin.com/in/marius-storhaug/)
-- [Marius Storhaug | GitHub](https://www.github.com/MariusStorhaug)
-- [Marius Storhaug | YouTube](https://www.youtube.com/channel/UCj86ZSyH8tKgYcNPv8RZEuw)
+&nbsp;
 
 ## **📊 Stats**
 
-![MariusStorhaug's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusStorhaug&count_private=true&show_icons=true&theme=chartreuse-dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MariusStorhaug&count_private=true&show_icons=true&theme=chartreuse-dark&locale=en" alt="mariusstorhaug"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MariusStorhaug&count_private=true&show_icons=true&theme=chartreuse-dark&locale=en" alt="mariusstorhaug"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MariusStorhaug&count_private=true&theme=chartreuse-dark" alt="mariusstorhaug"/>
