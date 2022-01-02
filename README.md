@@ -24,12 +24,12 @@ Establishing or enhancing product teams to develop a platform on Azure.
 
 ### 🛠️ Tools
 <div>
-    <img src="icons/Git.svg" alt="Git" padding=5px width=30>
-    <img src="icons/Azure_DevOps.svg" alt="Azure DevOps" padding=5px width=30>
-    <img src="icons/GitHub.svg" alt="GitHub" padding=5px width=30>
-    <img src="icons/Visual_Studio_Code.svg" alt="Visual Studio Code" padding=5px width=30>
-    <img src="icons/Windows.svg" alt="Windows" padding=5px width=30>
-    <img src="icons/Windows_Terminal.svg" alt="Windows Terminal" padding=5px width=30>
+    <img src="icons/Git.svg" alt="Git" style="padding:5px" width=30>
+    <img src="icons/Azure_DevOps.svg" alt="Azure DevOps" style="padding:5px" width=30>
+    <img src="icons/GitHub.svg" alt="GitHub" style="padding:5px" width=30>
+    <img src="icons/Visual_Studio_Code.svg" alt="Visual Studio Code" style="padding:5px" width=30>
+    <img src="icons/Windows.svg" alt="Windows" style="padding:5px" width=30>
+    <img src="icons/Windows_Terminal.svg" alt="Windows Terminal" style="padding:5px" width=30>
 </div>
 
 ### 📝 Languages
