@@ -34,10 +34,10 @@ Establishing or enhancing product teams to develop a platform on Azure.
     <img src="icons/azure-devops.svg" alt="Azure DevOps" width="30" hight="30"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener">
-    <img src="icons/GitHub.svg" alt="GitHub" width="30" hight="30"/>
+    <img src="icons/github.svg" alt="GitHub" width="30" hight="30"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener">
-    <img src="icons/Visual_Studio_Code.svg" alt="Visual Studio Code" width="30" hight="30"/>
+    <img src="icons/visual-studio-code.svg" alt="Visual Studio Code" width="30" hight="30"/>
 </a>
 <a href="https://docs.microsoft.com/en-us/windows/whats-new/windows-11-whats-new" target="_blank" rel="noreferrer noopener">
     <img src="icons/windows.svg" alt="Windows" width="30" hight="30"/>
