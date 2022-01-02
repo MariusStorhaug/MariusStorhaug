@@ -1,51 +1,72 @@
-![MariusStorhaug's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusStorhaug&count_private=true&show_icons=true&theme=chartreuse-dark)
+# Hi, I’m Marius
 
-- 👋 Hi, I’m @MariusStorhaug
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am a Senior Consultant at Microsoft, where I help some of the biggest organizations and partners in the Nordics
+to establish or enhance a platform in Azure.
 
-# About
+## 🔭 I’m currently working on
 
-I am a Senior Consultant in Microsoft Consulting Services, focusing on Azure Cloud and DevOps practices. I have been with Microsoft
- since April 2020. Since joining Microsoft I have been in 4 projects with CSP/MSP partners, where 3 have been CCoE type projects.
- Before joining Microsoft I was an Azure Architect in Sopra Steria's internal CCoE.
+- [Azure/ResourceModules](https://github.com/Azure/ResourceModules) - a library of bicep modules
+- [AzActions](https://github.com/AzActions) - a set of github actions to simplify IaC deployment
+- Improving the CAF guidance for Platform Automation and DevOps
 
-I live just south of Oslo, Norway in a town called Ski, with my wife, Sigrid, and 2 :cat: (Milo and Lulu). On my spare time I work
-on some pet development projects, and tend to spend some time gaming. Game of choice, WoW.
+## 🌱 I’m currently learning
 
-## Role
+- Scrum - Product Owner
+- Powershell module development
 
-Product Team Member
+## ⚙️ I'm rather skilled on
 
-## Experience on
+Establishing or enhancing product teams to develop a platform on Azure.
+  - Management and Governance (i.e. policy)
+  - Identity and Access Management (AAD)
+  - Network and Security
+  - Automated subscription provisioning (CSP, EA and MCA)
 
-- Azure Platform and Infrastructure
-- Azure Management and Governance (i.e. policy)
-- Azure AD
-- PowerShell and Visual Studio Code
-- Azure DevOps and GitHub
-- IaC (mostly ARM and Bicep)
-- Office 365, Cloud/Hybrid Identity
-- Cloud Client Management
+### 🛠️ Tools
+
+- Git
+- Azure DevOps
+- GitHub
+- Visual Studio Code
+- Windows
+- Windows Terminal
+
+### Non-technical
+- Scrum
+- DevOps
+- OKRs
+- Product-centric mindset
+- Cloud Adoption Framework
+- Enterprise-Scale (Azure Landing Zone)
+
+### 📝 Languages
+- PowerShell
+- [Pester](https://pester.dev/docs/quick-start)
+- ARM
+- Bicep
+- JSON
+- YML
+- Markdown
+
+### Background
+
 - Legacy Windows Server and Client infra and management
   - Hyper-V + System Center (Private Cloud)
   - Windows Client and Server OS
-  - Windows Server AD and other services
-  - ConfigMgr 2012 and later
-- Java development
+  - Windows Server AD
+  - ConfigMgr 2012 + Co-mgmt
+- Networking
+- Office 365, Cloud/Hybrid Identity
 
-## Contact info
+## 📫 You can also find me here
 
-- mastorha@microsoft.com (marius.storhaug@microsoft.com)
-- +47 97523272
+- [Private mail](marstor@hotmail.com)
+- [Work mail](marius.storhaug@microsoft.com)
+- [Marius Storhaug | Teams](https://teams.microsoft.com/l/chat/0/0?users=marius.storhaug@microsoft.com)
 - [Marius Storhaug | LinkedIn](https://www.linkedin.com/in/marius-storhaug/)
 - [Marius Storhaug | GitHub](https://www.github.com/MariusStorhaug)
+- [Marius Storhaug | YouTube](https://www.youtube.com/channel/UCj86ZSyH8tKgYcNPv8RZEuw)
 
+## **📊 Stats**
 
-
-<!--
-MariusStorhaug/MariusStorhaug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+![MariusStorhaug's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusStorhaug&count_private=true&show_icons=true&theme=chartreuse-dark)
