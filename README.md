@@ -23,13 +23,23 @@ Establishing or enhancing product teams to develop a platform on Azure.
 - Automated subscription provisioning (CSP, EA and MCA)
 
 ### 🛠️ Tools
-<div>
-    <img src="icons/Git.svg" alt="Git" style="padding:5px" width=30>
-    <img src="icons/Azure_DevOps.svg" alt="Azure DevOps" style="padding:5px" width=30>
-    <img src="icons/GitHub.svg" alt="GitHub" style="padding:5px" width=30>
-    <img src="icons/Visual_Studio_Code.svg" alt="Visual Studio Code" style="padding:5px" width=30>
-    <img src="icons/Windows.svg" alt="Windows" style="padding:5px" width=30>
-    <img src="icons/Windows_Terminal.svg" alt="Windows Terminal" style="padding:5px" width=30>
+
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<p align=left>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="icons/Git.svg" alt="Git" width=30>
+</a>
+    <img src="icons/Azure_DevOps.svg" alt="Azure DevOps" width=30>
+    <img src="icons/GitHub.svg" alt="GitHub" width=30>
+    <img src="icons/Visual_Studio_Code.svg" alt="Visual Studio Code" width=30>
+    <img src="icons/Windows.svg" alt="Windows" width=30>
+    <img src="icons/Windows_Terminal.svg" alt="Windows Terminal" width=30>
 </div>
 
 ### 📝 Languages
@@ -64,6 +74,27 @@ Establishing or enhancing product teams to develop a platform on Azure.
 
 </details>
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/mariusstorhaug" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mariusstorhaug" height="30" width="40"/>
+</a>
+<a href="https://twitter.com/mariusstorhaug" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mariusstorhaug" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mariusstorhaug" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariusstorhaug" height="30" width="40" /></a>
+<a href="https://fb.com/mariusstorhaug" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mariusstorhaug" height="30" width="40" /></a>
+<a href="https://instagram.com/mariusstorhaug" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mariusstorhaug" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mariusstorhaug" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mariusstorhaug" height="30" width="40" /></a>
+<a href="https://discord.gg/12123123" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="12123123" height="30" width="40" /></a>
+</p>
+
+
 ## 📫 You can also find me here
 
 - [Private mail](marstor@hotmail.com)
@@ -76,3 +107,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
 ## **📊 Stats**
 
 ![MariusStorhaug's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusStorhaug&count_private=true&show_icons=true&theme=chartreuse-dark)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariusstorhaug&show_icons=true&locale=en&layout=compact" alt="mariusstorhaug"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariusstorhaug&show_icons=true&locale=en" alt="mariusstorhaug"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariusstorhaug&" alt="mariusstorhaug"/>
