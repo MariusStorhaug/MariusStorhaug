@@ -46,7 +46,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
     <img src="icons/windows-terminal.svg" alt="Windows Terminal" height="30"/>
 </a>
 
-<br/>
+&nbsp;
 
 ### 📝 Languages
 
@@ -63,7 +63,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
     <img src="icons/bicep.svg" alt="Bicep" height="30"/>
 </a>
 
-<br/>
+&nbsp;
 
 ### 📃 Non-technical
 
@@ -82,7 +82,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
 - Enterprise-Scale (Azure Landing Zone)
 - Getting Things Done
 
-<br/>
+&nbsp;
 
 ## 📫 You can reach me here
 
@@ -99,7 +99,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
     <img src="icons/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>
 
-<br/>
+&nbsp;
 
 ## **📊 Stats**
 
