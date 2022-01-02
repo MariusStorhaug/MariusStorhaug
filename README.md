@@ -1,4 +1,4 @@
-# Hi, I’m Marius 👋
+# 👋 Hi, I’m Marius
 
 I am a Senior Consultant at Microsoft, where I help some of the biggest organizations and partners in the Nordics
 to establish or enhance a platform in Azure.
@@ -32,15 +32,6 @@ Establishing or enhancing product teams to develop a platform on Azure.
 - Windows
 - Windows Terminal
 
-### Non-technical
-
-- Scrum
-- DevOps
-- OKRs
-- Product-centric mindset
-- Cloud Adoption Framework
-- Enterprise-Scale (Azure Landing Zone)
-
 ### 📝 Languages
 
 - PowerShell
@@ -51,6 +42,14 @@ Establishing or enhancing product teams to develop a platform on Azure.
 - YML
 - Markdown
 
+### 📃 Non-technical
+
+- Scrum
+- DevOps
+- OKRs
+- Product-centric mindset
+- Cloud Adoption Framework
+- Enterprise-Scale (Azure Landing Zone)
 
 <details>
   <summary>Background</summary>
