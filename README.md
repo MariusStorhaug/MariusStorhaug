@@ -24,7 +24,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
 
 ### 🛠️ Tools
 
-![Git](icons\Git.svg)
+![Git](icons/Git.svg)
 ![Azure DevOps](icons\Azure_DevOps.svg)
 ![GitHub](icons\GitHub.svg)
 ![Visual Studio Code](icons\Visual_Studio_Code.svg)
