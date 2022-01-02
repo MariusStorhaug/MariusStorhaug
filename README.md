@@ -24,12 +24,12 @@ Establishing or enhancing product teams to develop a platform on Azure.
 
 ### 🛠️ Tools
 
-- Git
-- Azure DevOps
-- GitHub
-- Visual Studio Code
-- Windows
-- Windows Terminal
+- ![Git](icons\Git.svg | width=25)
+- ![Azure DevOps](icons\Azure_DevOps.svg | width=25)
+- ![GitHub](icons\GitHub.svg | width=25)
+- ![Visual Studio Code](icons\Visual_Studio_Code.svg | width=25)
+- ![Windows](icons\Windows.svg | width=25)
+- ![Windows Terminal](icons\Windows_Terminal.svg | width=25)
 
 ### 📝 Languages
 
@@ -51,7 +51,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
 - Enterprise-Scale (Azure Landing Zone)
 
 <details>
-  <summary>### Background</summary>
+  <summary>**🖥️ Background**</summary>
 
 - Legacy Windows Server and Client infra and management
   - Hyper-V + System Center (Private Cloud)
