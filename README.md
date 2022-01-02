@@ -52,7 +52,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
 - Enterprise-Scale (Azure Landing Zone)
 
 <details>
-  <summary>Background</summary>
+  <summary>### Background</summary>
 
 - Legacy Windows Server and Client infra and management
   - Hyper-V + System Center (Private Cloud)
