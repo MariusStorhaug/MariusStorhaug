@@ -46,8 +46,6 @@ Establishing or enhancing product teams to develop a platform on Azure.
     <img src="icons/windows-terminal.svg" alt="Windows Terminal" height="30"/>
 </a>
 
-&nbsp;
-
 ### 📝 Languages
 
 <a href="https://docs.microsoft.com/en-us/powershell/scripting/overview" target="_blank" rel="noreferrer noopener">
@@ -66,7 +64,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
 ### 📃 Non-technical
 
 <a href="https://scrumguides.org/scrum-guide.html" target="_blank" rel="noreferrer noopener">
-    <img src="icons/scrum.svg" alt="Scrum" height="30"/>
+    <img src="icons/scrum.png" alt="Scrum" height="30"/>
 </a>
 <a href="https://docs.microsoft.com/en-us/learn/paths/devops-dojo-white-belt-foundation/" target="_blank" rel="noreferrer noopener">
     <img src="icons/devops.png" alt="DevOps" height="30"/>
@@ -74,7 +72,6 @@ Establishing or enhancing product teams to develop a platform on Azure.
 <a href="https://www.whatmatters.com/get-started" target="_blank" rel="noreferrer noopener">
     <img src="icons/okr.png" alt="OKRs" height="30"/>
 </a>
-
 
 - Cloud Adoption Framework
 - Enterprise-Scale (Azure Landing Zone)
@@ -94,8 +91,6 @@ Establishing or enhancing product teams to develop a platform on Azure.
 <a href="https://twitter.com/mariusstorhaug" target="_blank" rel="noreferrer noopener">
     <img src="icons/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>
-
-&nbsp;
 
 ## **📊 Stats**
 
