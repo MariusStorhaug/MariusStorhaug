@@ -46,7 +46,6 @@ Establishing or enhancing product teams to develop a platform on Azure.
     <img src="icons/windows-terminal.svg" alt="Windows Terminal" height="30"/>
 </a>
 
-
 ### 📝 Languages
 
 <a href="https://docs.microsoft.com/en-us/powershell/scripting/overview" target="_blank" rel="noreferrer noopener">
