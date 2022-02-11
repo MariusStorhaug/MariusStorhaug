@@ -7,6 +7,7 @@ to establish or enhance a platform in Azure.
 
 - [Azure/ResourceModules](https://github.com/Azure/ResourceModules) - a library of bicep modules
 - [AzActions](https://github.com/AzActions) - a set of github actions to simplify IaC deployment
+- [GitHub PowerShell Module](https://github.com/MariusStorhaug/GitHub) - A PowerShell module to create automation towards GitHub
 
 ## 🌱 I’m currently learning
 
