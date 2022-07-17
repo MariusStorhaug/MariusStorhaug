@@ -61,6 +61,9 @@ Establishing or enhancing product teams to develop a platform on Azure.
 <a href="https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview" target="_blank" rel="noreferrer noopener">
     <img src="icons/bicep.svg" alt="Bicep" height="30"/>
 </a>
+<a href="https://www.terraform.io/language" target="_blank" rel="noreferrer noopener">
+    <img src="icons/terraform.png" alt="Bicep" height="30"/>
+</a>
 
 ### 📃 Non-technical
 
