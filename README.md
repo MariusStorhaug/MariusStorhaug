@@ -9,7 +9,8 @@ I am a DevOps Engineer at DNB in Norway, where I help simplify application teams
 ## 🌱 I’m currently learning
 
 - Advanced PowerShell module development
-- 
+- Azure Functions
+- Azure DevOps authentication
 
 ## ⚙️ I have experience on
 
