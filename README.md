@@ -1,18 +1,15 @@
 # 👋 Hi, I’m Marius
 
-I am a Senior Consultant at Microsoft, where I help some of the biggest organizations and partners in the Nordics
-to establish or enhance a platform in Azure.
+I am a DevOps Engineer at DNB in Norway, where I help simplify application teams journey to Azure by establishing and enhancing platform services on Azure.
 
 ## 🔭 I’m currently working on
 
-- [Azure/ResourceModules](https://github.com/Azure/ResourceModules) - a library of bicep modules
-- [AzActions](https://github.com/AzActions) - a set of github actions to simplify IaC deployment
-- [GitHub PowerShell Module](https://github.com/MariusStorhaug/GitHub) - A PowerShell module to create automation towards GitHub
+- Private repos
 
 ## 🌱 I’m currently learning
 
-- Scrum - Product Owner
 - Advanced PowerShell module development
+- 
 
 ## ⚙️ I have experience on
 
