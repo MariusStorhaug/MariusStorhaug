@@ -4,7 +4,13 @@ I am a DevOps Engineer at DNB in Norway, where I help simplify application teams
 
 ## 🔭 I’m currently working on
 
-- Private repos
+- [PowerShell module framework via GitHub actions](https://www.github.com/PSModule/)
+- [PowerShell module for GitHub](https://www.github.com/MariusStorhaug/GitHub)
+- Other smaller PowerShell modules:
+  - [PATH](https://www.github.com/MariusStorhaug/PATH)
+  - [Fonts](https://www.github.com/MariusStorhaug/Fonts)
+  - [NerdFonts](https://www.github.com/MariusStorhaug/NerdFonts)
+  - [Utilities](https://www.github.com/MariusStorhaug/Utilities)
 
 ## 🌱 I’m currently learning
 
