@@ -4,7 +4,7 @@ I am a DevOps Engineer at DNB in Norway, where I help simplify application teams
 
 Some of the work I have been doing so far:
 - Founding team member and maintainer of CARML (aka. Azure Resource Modules). Now a contributor, as I am no longer with Microsoft. [Azure/ResourceModules: This repository includes a CI platform for and collection of mature and curated Bicep modules. The platform supports both ARM and Bicep and can be leveraged using GitHub actions as well as Azure DevOps pipelines.](https://github.com/Azure/ResourceModules)
-- Ket contributor to the [Platform Automation and DevOps design ares in Microsoft Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/platform-automation-devops)
+- Key contributor to the [Platform Automation and DevOps design ares in Microsoft Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/platform-automation-devops)
 
 
 ## 🔭 I’m currently working on
