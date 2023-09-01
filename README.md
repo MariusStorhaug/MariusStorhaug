@@ -106,7 +106,3 @@ Establishing or enhancing product teams to develop a platform on Azure.
 <a href="https://twitter.com/mariusstorhaug" target="_blank" rel="noreferrer noopener">
     <img src="icons/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>
-
-## **📊 Stats**
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MariusStorhaug&count_private=true&theme=chartreuse-dark" alt="mariusstorhaug"/>
