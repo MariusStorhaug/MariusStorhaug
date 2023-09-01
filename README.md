@@ -109,5 +109,4 @@ Establishing or enhancing product teams to develop a platform on Azure.
 
 ## **📊 Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=MariusStorhaug&count_private=true&show_icons=true&theme=chartreuse-dark&locale=en" alt="mariusstorhaug"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariusStorhaug&count_private=true&theme=chartreuse-dark" alt="mariusstorhaug"/>
