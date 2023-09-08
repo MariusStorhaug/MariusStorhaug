@@ -16,9 +16,9 @@ https://github.com/Gordonby
 ## 🔭 I’m currently working on
 
 - <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/ps_metro_black.png" alt="PowerShell" height="15"/> [PowerShell module framework via GitHub actions](https://www.github.com/PSModule/)
-  - Streamline module development on GitHub, using Actions and Pages.
-- <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/github.png" alt="PowerShell" height="15"/> [PowerShell module for GitHub](https://www.github.com/PSModule/GitHub)
-- <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/azuredevops.png" alt="PowerShell" height="15"/> [PowerShell module for AzureDevOps](https://www.github.com/PSModule/AzureDevOps)
+  - Streamline module development on GitHub, using Github Actions and Pages.
+- <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/github.png" alt="github" height="15"/> [PowerShell module for GitHub](https://www.github.com/PSModule/GitHub)
+- <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/azuredevops.png" alt="azuredevops" height="15"/> [PowerShell module for AzureDevOps](https://www.github.com/PSModule/AzureDevOps)
 - Other smaller PowerShell modules:
   - [PATH](https://www.github.com/PSModule/PATH)
   - [Fonts](https://www.github.com/PSModule/Fonts)
