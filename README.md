@@ -8,6 +8,9 @@ Some of the work I have been doing so far:
 
 <!--
 Gravatar.org
+
+https://github.com/Gordonby
+
 -->
 
 ## 🔭 I’m currently working on
