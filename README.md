@@ -15,7 +15,7 @@ Gravatar.org
 - [PowerShell module framework via GitHub actions](https://www.github.com/PSModule/)
   - Streamline module development on GitHub, using Actions and Pages.
 - [PowerShell module for GitHub](https://www.github.com/PSModule/GitHub)
-- [PowerShell module for AzureDevOps}(https://www.github.com/PSModule/AzureDevOps)
+- [PowerShell module for AzureDevOps](https://www.github.com/PSModule/AzureDevOps)
 - Other smaller PowerShell modules:
   - [PATH](https://www.github.com/PSModule/PATH)
   - [Fonts](https://www.github.com/PSModule/Fonts)
