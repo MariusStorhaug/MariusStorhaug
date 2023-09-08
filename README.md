@@ -14,13 +14,14 @@ Gravatar.org
 
 - [PowerShell module framework via GitHub actions](https://www.github.com/PSModule/)
   - Streamline module development on GitHub, using Actions and Pages.
-- [PowerShell module for GitHub](https://www.github.com/MariusStorhaug/GitHub)
+- [PowerShell module for GitHub](https://www.github.com/PSModule/GitHub)
+- [PowerShell module for AzureDevOps}(https://www.github.com/PSModule/AzureDevOps)
 - Other smaller PowerShell modules:
-  - [PATH](https://www.github.com/MariusStorhaug/PATH)
-  - [Fonts](https://www.github.com/MariusStorhaug/Fonts)
-  - [NerdFonts](https://www.github.com/MariusStorhaug/NerdFonts)
-  - [Utilities](https://www.github.com/MariusStorhaug/Utilities)
-  - [PublicIP](https://www.github.com/MariusStorhaug/PublicIP)
+  - [PATH](https://www.github.com/PSModule/PATH)
+  - [Fonts](https://www.github.com/PSModule/Fonts)
+  - [NerdFonts](https://www.github.com/PSModule/NerdFonts)
+  - [Utilities](https://www.github.com/PSModule/Utilities)
+  - [PublicIP](https://www.github.com/PSModule/PublicIP)
 
 ## 🌱 I’m currently learning
 
