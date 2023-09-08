@@ -15,7 +15,7 @@ https://github.com/Gordonby
 
 ## 🔭 I’m currently working on
 
-- [PowerShell module framework via GitHub actions](https://www.github.com/PSModule/)
+- <img src="https://github.com/PSModule/.github/raw/main/profile/ps_metro_black.png" alt="PowerShell" height="15"/> [PowerShell module framework via GitHub actions](https://www.github.com/PSModule/)
   - Streamline module development on GitHub, using Actions and Pages.
 - [PowerShell module for GitHub](https://www.github.com/PSModule/GitHub)
 - [PowerShell module for AzureDevOps](https://www.github.com/PSModule/AzureDevOps)
