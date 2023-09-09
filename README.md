@@ -9,9 +9,9 @@
 👷 Previously, I worked as a delivery consultant at Microsoft where I built Azure Platforms and set up DevOps platform teams for several large organizations in the EMEA region.
 
 
-## 📢 Achievements
+## 📢 Key contributions
 
-- Founding team member and maintainer of CARML (aka. Azure Resource Modules). Now a contributor, as I am no longer with Microsoft. [Azure/ResourceModules: This repository includes a CI platform for and collection of mature and curated Bicep modules. The platform supports both ARM and Bicep and can be leveraged using GitHub actions as well as Azure DevOps pipelines.](https://github.com/Azure/ResourceModules)
+- Founding team member and maintainer of [CARML (aka. Azure Resource Modules)](https://github.com/Azure/ResourceModules). Now a contributor, as I am no longer with Microsoft.
 - Key contributor to the [Platform Automation and DevOps design ares in Microsoft Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/platform-automation-devops)
 
 <!--
@@ -97,9 +97,8 @@ Establishing or enhancing product teams to develop a platform on Azure.
     <img src="icons/okr.png" alt="OKRs" height="30"/>
 </a>
 
-- Cloud Adoption Framework
-- Enterprise-Scale (Azure Landing Zone)
-- Getting Things Done
+- [Cloud Adoption Framework / Enterprise-Scale / Azure Landing Zone)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas)
+- [Getting Things Done](https://gettingthingsdone.com/)
 
 ## 📫 You can reach me here
 
