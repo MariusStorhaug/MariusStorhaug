@@ -21,7 +21,7 @@ https://github.com/Gordonby
 
 -->
 
-## 🔭 I’m currently working on
+## 🔭 I’m currently learning and working on
 
 - <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/ps_metro_black.png" alt="PowerShell" height="15"/> [PowerShell module framework via GitHub actions](https://www.github.com/PSModule/)
   - Streamline module development on GitHub, using Github Actions and Pages.
@@ -33,12 +33,6 @@ https://github.com/Gordonby
   - [NerdFonts](https://www.github.com/PSModule/NerdFonts)
   - [Utilities](https://www.github.com/PSModule/Utilities)
   - [PublicIP](https://www.github.com/PSModule/PublicIP)
-
-## 🌱 I’m currently learning
-
-- Advanced PowerShell module development
-- Azure Functions
-- Azure DevOps authentication
 
 ## ⚙️ I have experience on
 
