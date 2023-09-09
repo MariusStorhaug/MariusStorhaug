@@ -3,8 +3,11 @@
 ## About Me
 
 👨‍💼 DevOps Engineer at DNB in Norway
+
 🌱 I'm passionate about simplifying the journey to Azure for application teams by establishing and enhancing platform services on Azure and providing a better developer experience.
+
 👷 Previously, I worked as a delivery consultant at Microsoft where I built Azure Platforms and set up DevOps platform teams for several large organizations in the EMEA region.
+
 
 ## 📢 Achievements
 
