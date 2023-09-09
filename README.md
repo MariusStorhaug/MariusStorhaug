@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Marius
 
-## About Me
-
 👨‍💼 DevOps Engineer at DNB in Norway
 
 🌱 I'm passionate about simplifying the journey to Azure for application teams by establishing and enhancing platform services on Azure and providing a better developer experience.
