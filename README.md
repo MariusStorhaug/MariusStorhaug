@@ -8,7 +8,7 @@
 
 ## 🔭 Current projects
 
-- <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/ps_metro_black.png" alt="PowerShell" height="15"/> [PSModule - A PowerShell module framework on GitHub Actions](https://www.github.com/PSModule/)
+- <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/ps_metro_black.png" alt="PowerShell" height="15"/> [PSModule](https://www.github.com/PSModule/) - A PowerShell module framework using GitHub Actions
 - <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/github.png" alt="github" height="15"/> [PowerShell module for GitHub](https://www.github.com/PSModule/GitHub)
 - <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/azuredevops.png" alt="azuredevops" height="15"/> [PowerShell module for AzureDevOps](https://www.github.com/PSModule/AzureDevOps)
 - Other smaller PowerShell modules:
