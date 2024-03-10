@@ -20,7 +20,7 @@
 
 ## 📢 Key contributions
 
-- Founding team member and maintainer of [Azure Resource Modules(aka. CARML)](https://github.com/Azure/ResourceModules), now known as [Azure Verified Modules](https://aka.ms/avm). Currently a contributor, as I am no longer with Microsoft.
+- Founding team member and maintainer of [Azure Resource Modules(aka. CARML)](https://github.com/Azure/ResourceModules), now known as [Azure Verified Modules](https://aka.ms/avm).
 - Key contributor to the [Platform Automation and DevOps design ares in Microsoft Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/platform-automation-devops)
 
 ### 🛠️ Stuff i dabble with
