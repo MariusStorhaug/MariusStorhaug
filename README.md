@@ -6,12 +6,6 @@
 
 👷 Previously, I worked as a delivery consultant at Microsoft where I built Azure Platforms and set up DevOps platform teams for several large organizations in the EMEA region.
 
-
-## 📢 Key contributions
-
-- Founding team member and maintainer of [Azure Resource Modules(aka. CARML)](https://github.com/Azure/ResourceModules), now known as [Azure Verified Modules](https://aka.ms/avm). Currently a contributor, as I am no longer with Microsoft.
-- Key contributor to the [Platform Automation and DevOps design ares in Microsoft Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/platform-automation-devops)
-
 ## 🔭 Current projects
 
 - <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/ps_metro_black.png" alt="PowerShell" height="15"/> [PSModule - A PowerShell module framework on GitHub Actions](https://www.github.com/PSModule/)
@@ -23,6 +17,11 @@
   - [NerdFonts](https://www.github.com/PSModule/NerdFonts)
   - [Utilities](https://www.github.com/PSModule/Utilities)
   - [PublicIP](https://www.github.com/PSModule/PublicIP)
+
+## 📢 Key contributions
+
+- Founding team member and maintainer of [Azure Resource Modules(aka. CARML)](https://github.com/Azure/ResourceModules), now known as [Azure Verified Modules](https://aka.ms/avm). Currently a contributor, as I am no longer with Microsoft.
+- Key contributor to the [Platform Automation and DevOps design ares in Microsoft Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/platform-automation-devops)
 
 ### 🛠️ Stuff i dabble with
 
