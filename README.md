@@ -9,20 +9,12 @@
 
 ## 📢 Key contributions
 
-- Founding team member and maintainer of [CARML (aka. Azure Resource Modules)](https://github.com/Azure/ResourceModules). Now a contributor, as I am no longer with Microsoft.
+- Founding team member and maintainer of [Azure Resource Modules(aka. CARML)](https://github.com/Azure/ResourceModules), now known as [Azure Verified Modules](https://aka.ms/avm). Currently a contributor, as I am no longer with Microsoft.
 - Key contributor to the [Platform Automation and DevOps design ares in Microsoft Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/platform-automation-devops)
 
-<!--
-Gravatar.org
+## 🔭 Current projects
 
-https://github.com/Gordonby
-
--->
-
-## 🔭 I’m currently learning and working on
-
-- <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/ps_metro_black.png" alt="PowerShell" height="15"/> [PowerShell module framework via GitHub actions](https://www.github.com/PSModule/)
-  - Streamline module development on GitHub, using Github Actions and Pages.
+- <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/ps_metro_black.png" alt="PowerShell" height="15"/> [PSModule - A PowerShell module framework on GitHub Actions](https://www.github.com/PSModule/)
 - <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/github.png" alt="github" height="15"/> [PowerShell module for GitHub](https://www.github.com/PSModule/GitHub)
 - <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/azuredevops.png" alt="azuredevops" height="15"/> [PowerShell module for AzureDevOps](https://www.github.com/PSModule/AzureDevOps)
 - Other smaller PowerShell modules:
@@ -32,16 +24,7 @@ https://github.com/Gordonby
   - [Utilities](https://www.github.com/PSModule/Utilities)
   - [PublicIP](https://www.github.com/PSModule/PublicIP)
 
-## ⚙️ I have experience on
-
-Establishing or enhancing product teams to develop a platform on Azure.
-- Management and Governance (i.e. policy)
-- Identity and Access Management (AAD)
-- Network and Security
-- Platform automation
-- Automated subscription provisioning (CSP, EA and MCA)
-
-### 🛠️ Tools
+### 🛠️ Stuff i dabble with
 
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer noopener">
     <img src="icons/azure.svg" alt="azure" height="30"/>
@@ -65,7 +48,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
     <img src="icons/windows-terminal.svg" alt="Windows Terminal" height="30"/>
 </a>
 
-### 📝 Languages
+### 📝 Languages I regularly use
 
 <a href="https://docs.microsoft.com/en-us/powershell/scripting/overview" target="_blank" rel="noreferrer noopener">
     <img src="icons/powershell.svg" alt="PowerShell" height="30"/>
@@ -100,7 +83,7 @@ Establishing or enhancing product teams to develop a platform on Azure.
 
 ## 📫 You can reach me here
 
-<a href="https://teams.microsoft.com/l/chat/0/0?users=marius.storhaug@microsoft.com" target="_blank" rel="noreferrer noopener">
+<a href="https://teams.microsoft.com/l/chat/0/0?users=marius.storhaug@dnb.no" target="_blank" rel="noreferrer noopener">
     <img src="icons/microsoft-teams.svg" alt="Teams" height="30" width="40"/>
 </a>
 <a href="https://linkedin.com/in/mariusstorhaug" target="_blank" rel="noreferrer noopener">
