@@ -56,21 +56,6 @@
     <img src="icons/terraform.png" alt="Bicep" height="30"/>
 </a>
 
-### 📃 Non-technical
-
-<a href="https://scrumguides.org/scrum-guide.html" target="_blank" rel="noreferrer noopener">
-    <img src="icons/scrum.png" alt="Scrum" height="30"/>
-</a>
-<a href="https://docs.microsoft.com/en-us/learn/paths/devops-dojo-white-belt-foundation/" target="_blank" rel="noreferrer noopener">
-    <img src="icons/devops.png" alt="DevOps" height="30"/>
-</a>
-<a href="https://www.whatmatters.com/get-started" target="_blank" rel="noreferrer noopener">
-    <img src="icons/okr.png" alt="OKRs" height="30"/>
-</a>
-
-- [Cloud Adoption Framework / Enterprise-Scale / Azure Landing Zone)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas)
-- [Getting Things Done](https://gettingthingsdone.com/)
-
 ## 📫 You can reach me here
 
 <a href="https://teams.microsoft.com/l/chat/0/0?users=marius.storhaug@dnb.no" target="_blank" rel="noreferrer noopener">
