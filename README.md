@@ -1,12 +1,8 @@
 # 👋 Hi, I’m Marius
 
-👨‍💼 DevOps Engineer at DNB in Norway
+🌱 I simplify and automate stuff so that others can focus on creating value.
 
-🌱 I'm passionate about simplifying the journey to Azure for application teams by establishing and enhancing platform services on Azure and providing a better developer experience.
-
-👷 Previously, I worked as a delivery consultant at Microsoft where I built Azure Platforms and set up DevOps platform teams for several large organizations in the EMEA region.
-
-## 🔭 Current projects
+## 🔭 What I'm working on
 
 - <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/ps_metro_black.png" alt="PowerShell" height="15"/> [PSModule](https://www.github.com/PSModule/) - A PowerShell module framework using GitHub Actions
 - <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/github.png" alt="github" height="15"/> [PowerShell module for GitHub](https://www.github.com/PSModule/GitHub)
