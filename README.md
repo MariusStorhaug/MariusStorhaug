@@ -8,11 +8,11 @@
 - <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/github.png" alt="github" height="15"/> [PowerShell module for GitHub](https://www.github.com/PSModule/GitHub)
 - <img src="https://github.com/MariusStorhaug/MariusStorhaug/raw/main/icons/azuredevops.png" alt="azuredevops" height="15"/> [PowerShell module for AzureDevOps](https://www.github.com/PSModule/AzureDevOps)
 - Other smaller PowerShell modules:
-  - [PATH](https://www.github.com/PSModule/PATH)
-  - [Fonts](https://www.github.com/PSModule/Fonts)
-  - [NerdFonts](https://www.github.com/PSModule/NerdFonts)
-  - [Utilities](https://www.github.com/PSModule/Utilities)
-  - [PublicIP](https://www.github.com/PSModule/PublicIP)
+  - [NerdFonts](https://www.github.com/PSModule/NerdFonts) | [GoogleFonts](https://www.github.com/PSModule/GoogleFonts) | [Fonts](https://www.github.com/PSModule/Fonts)
+  - [PSCredential](https://www.github.com/PSModule/Markdown) | [CasingStyle](https://www.github.com/PSModule/CasingStyle) | [Uri](https://www.github.com/PSModule/Uri)
+  - [Markdown](https://www.github.com/PSModule/Markdown) | [Context](https://www.github.com/PSModule/Context) | [Sodium](https://www.github.com/PSModule/Sodium)
+  - [Hashtable](https://www.github.com/PSModule/Hashtable) | [PSCustomObject](https://www.github.com/PSModule/PSCustomObject) | [TimeSpan](https://www.github.com/PSModule/TimeSpan) | [DateTime](https://www.github.com/PSModule/DateTime)
+  - [Utilities](https://www.github.com/PSModule/Utilities) | [PublicIP](https://www.github.com/PSModule/PublicIP) | [PATH](https://www.github.com/PSModule/PATH)
 
 ### 🛠️ Stuff i dabble with
 
